@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently learning Python and planning to do a project using it. My interests are machine learning and software development. 
+I am currently learning Python and planning to use it for a project. My interests are machine learning and software development. I would like to work on open source projects soon!
 <!--
 **lyjz9/lyjz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
