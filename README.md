@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently learning Python and planning to do a project using it. My interests are machine learning and software development. 
 <!--
 **lyjz9/lyjz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
