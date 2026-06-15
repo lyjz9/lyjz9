@@ -1,5 +1,9 @@
 ## Hi there 👋
-I am currently learning Python and planning to use it for a project. My interests are machine learning and software development. I would like to work on open source projects soon!
+I'm passionate about building practical tools with Python and exploring data-driven solutions. Recently, I've been working on automation projects, web scraping, and improving data processing workflows, with a focus on creating reliable and efficient applications.
+
+I'm interested in software engineering, data analytics, and backend development, and I enjoy using technology to solve real-world problems. I'm continuously expanding my skills through hands-on projects and experimenting with new tools and frameworks.
+
+Feel free to check out my repositories to see what I'm currently working on!
 <!--
 **lyjz9/lyjz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
