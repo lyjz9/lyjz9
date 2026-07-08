@@ -17,9 +17,9 @@ I build practical tools with Python, data workflows, and backend systems. I like
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lyjz9&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lyjz9&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyjz9&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lyjz9&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Toolbox
 
