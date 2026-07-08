@@ -17,7 +17,7 @@ I build practical tools with Python, data workflows, and backend systems. I like
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lyjz9&theme=tokyonight&hide_border=true)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lyjz9&layout=compact&theme=tokyonight&hide_border=true)
 
