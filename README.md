@@ -15,11 +15,27 @@ I build practical tools with Python, data workflows, and backend systems. I like
 - Exploring data analysis, regression modeling, and backend fundamentals.
 - Keeping projects practical, readable, and a little bit satisfying to use.
 
-## Stats Notes
+## Live Stats
 
-- Main languages lately: Python, R, HTML, and JavaScript.
-- Recent public work: automation tools, statistical modeling, regression labs, and a personal website.
-- Favorite kind of project: something that starts as a messy workflow and ends as a clean button, script, or tracker.
+<p align="left">
+  <a href="https://github.com/lyjz9"><img alt="GitHub followers" src="https://img.shields.io/github/followers/lyjz9?style=flat-square&label=followers&logo=github&color=111827"></a>
+  <a href="https://github.com/lyjz9?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/public_repos-14-2563EB?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lyjz9/joblink-tracker"><img alt="JobLink Tracker top language" src="https://img.shields.io/github/languages/top/lyjz9/joblink-tracker?style=flat-square&label=joblink-tracker&logo=python"></a>
+  <a href="https://github.com/lyjz9/joblink-tracker"><img alt="JobLink Tracker last commit" src="https://img.shields.io/github/last-commit/lyjz9/joblink-tracker?style=flat-square&label=last%20commit"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lyjz9/auto-claims-frequency-modeling"><img alt="Auto Claims top language" src="https://img.shields.io/github/languages/top/lyjz9/auto-claims-frequency-modeling?style=flat-square&label=claims-modeling&logo=python"></a>
+  <a href="https://github.com/lyjz9/auto-claims-frequency-modeling"><img alt="Auto Claims repo size" src="https://img.shields.io/github/repo-size/lyjz9/auto-claims-frequency-modeling?style=flat-square&label=repo%20size"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lyjz9/regression-lab"><img alt="Regression Lab top language" src="https://img.shields.io/github/languages/top/lyjz9/regression-lab?style=flat-square&label=regression-lab&logo=r"></a>
+  <a href="https://github.com/lyjz9/regression-lab"><img alt="Regression Lab last commit" src="https://img.shields.io/github/last-commit/lyjz9/regression-lab?style=flat-square&label=last%20commit"></a>
+</p>
 
 ## Toolbox
 
