@@ -1,4 +1,4 @@
-# Hi, I'm Jerry
+# Hi there
 
 I build practical tools with Python, data workflows, and backend systems. I like turning messy, repetitive problems into reliable automation, clean scripts, and useful applications.
 
@@ -9,7 +9,7 @@ I build practical tools with Python, data workflows, and backend systems. I like
   <a href="https://github.com/lyjz9/regression-lab"><img alt="Regression Lab" src="https://img.shields.io/badge/Regression_Lab-R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
 
-## What I'm Building
+## Project Notes
 
 - JobLink Tracker: turns job posting links into structured Excel tracker rows.
 - Auto Claims Frequency Modeling: explores Poisson and Negative Binomial regression for claims data.
@@ -29,13 +29,6 @@ Python automation, data analysis, backend fundamentals, and practical tools that
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
-## Stats
-
-<p align="left">
-  <img height="165" alt="Jerry's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lyjz9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyjz9&layout=compact&theme=transparent&hide_border=true">
 </p>
 
 Thanks for stopping by. Feel free to explore what I'm building.
