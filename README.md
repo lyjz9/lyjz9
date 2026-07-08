@@ -19,7 +19,7 @@ I build practical tools with Python, data workflows, and backend systems. I like
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lyjz9&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lyjz9&layout=compact&bg_color=FFF1E6&title_color=E76F51&text_color=3D2B1F&hide_border=true)
 
 ## Toolbox
 
