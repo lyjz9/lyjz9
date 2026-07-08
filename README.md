@@ -1,6 +1,6 @@
 # Hi there
 
-I build practical tools with Python, data workflows, and backend systems. I like turning messy, repetitive problems into reliable automation, clean scripts, and useful applications.
+I work with Python, data workflows, and backend systems. I like taking repetitive, manual problems and turning them into automation that actually works, clean scripts, and useful tools.
 
 <p align="left">
   <a href="https://lyjz9.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"></a>
