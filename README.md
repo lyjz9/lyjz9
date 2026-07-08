@@ -9,16 +9,17 @@ I build practical tools with Python, data workflows, and backend systems. I like
   <a href="https://github.com/lyjz9/regression-lab"><img alt="Regression Lab" src="https://img.shields.io/badge/Regression_Lab-R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
 
-## Project Notes
+## At A Glance
 
-- JobLink Tracker: turns job posting links into structured Excel tracker rows.
-- Auto Claims Frequency Modeling: explores Poisson and Negative Binomial regression for claims data.
-- Regression Lab: reproducible R regression case studies with imputation, transformations, and diagnostics.
-- Personal Website: a small home base for projects and experiments.
+- Building small tools that make repetitive work easier.
+- Exploring data analysis, regression modeling, and backend fundamentals.
+- Keeping projects practical, readable, and a little bit satisfying to use.
 
-## Current Focus
+## Stats Notes
 
-Python automation, data analysis, backend fundamentals, and practical tools that save time.
+- Main languages lately: Python, R, HTML, and JavaScript.
+- Recent public work: automation tools, statistical modeling, regression labs, and a personal website.
+- Favorite kind of project: something that starts as a messy workflow and ends as a clean button, script, or tracker.
 
 ## Toolbox
 
